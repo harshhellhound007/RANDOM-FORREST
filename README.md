@@ -1,2 +1,2 @@
-# RANNDOM-FORREST
+# RANDOM-FORREST
 Prediction using Random Forrest.
